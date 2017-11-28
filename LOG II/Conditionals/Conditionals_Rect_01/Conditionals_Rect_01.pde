@@ -1,5 +1,6 @@
 int posx=0;
 int posy=0;
+int rectsize=20;
 
 void setup() {
   size(500, 500);
@@ -8,10 +9,10 @@ void setup() {
 
 void draw() {
   fill(random(255),random(255),random(255));
-  rect(posx, posy, 20, 20);
-  posx+=30;
+  rect(posx, posy, rectsize, rectsize);
+  posx+=rectsize;
   if (posx>=width) {
     posx=0;
-    posy+=30;
+    posy+=rectsize;
   }
 }
