@@ -2,7 +2,7 @@
 Codebase for Creative Coding Course HS 2017
 
 
-![Gif](https://78.media.tumblr.com/29ad76636502733ba4575c03f9fcedf6/tumblr_osvhe1d6HH1r2geqjo1_500.gif)
+![Gif](https://78.media.tumblr.com/b2df174e35277526990f54c476e9da0b/tumblr_opv7vg0gqG1r2geqjo1_500.gif)
 (bild: beesandbombs)
 
 ## Projekt
