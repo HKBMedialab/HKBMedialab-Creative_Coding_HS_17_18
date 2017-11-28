@@ -4,6 +4,7 @@ Codebase for Creative Coding Course HS 2017
 
 
 ![Gif](https://78.media.tumblr.com/29ad76636502733ba4575c03f9fcedf6/tumblr_osvhe1d6HH1r2geqjo1_500.gif)
+(bild: beesandbombs)
 
 ## Projekt
 Elektrische Entladungen, Bilderfetzen, Glitches, Standbyanzeigen, Loadergifs und Animationsloops. Was geht im Kopf eines schlafenden Roboters vor?
