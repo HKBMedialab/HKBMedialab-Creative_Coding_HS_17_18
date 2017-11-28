@@ -1,5 +1,4 @@
-# Standby
-## Sleeping Robot / Robot Dreams
+# Standby / Sleeping Robot / Robot Dreams
 Codebase for Creative Coding Course HS 2017
 
 
