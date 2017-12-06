@@ -3,7 +3,7 @@ int posy=0;
 int rectsize=20;
 
 // zweite stufe
-//int offset=0;
+int offset=0;
 
 void setup() {
   size(500, 500);
@@ -21,10 +21,9 @@ void draw() {
     posy+=rectsize;
   }
 
-  //if (posy>height) {
-    // denkt euch was aus
-   // posy=0;
-   // offset-=10;
-   // posx=offset;
-  //}
+ if (posy>height) {
+   posy=0;
+    offset-=10;
+    posx=offset;
+  }
 }
