@@ -16,7 +16,7 @@ void setup() {
   size(500, 500);
   background(255);
   smooth();
-  pixelDensity(2);
+ // pixelDensity(2);
 }
 
 void draw() {
