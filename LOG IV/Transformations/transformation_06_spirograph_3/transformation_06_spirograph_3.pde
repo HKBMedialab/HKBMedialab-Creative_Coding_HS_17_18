@@ -27,14 +27,6 @@ int minS, maxS;
 int minB, maxB;
 float scale=100;
 
-//local coordinate system
-PMatrix2D coordinateSystem;
-//ineverse local coordinate system
-PMatrix2D inverseCoordinateSystem;
-
-PVector global = new PVector();
-PVector local = new PVector();
-
 
 
 void setup() {
