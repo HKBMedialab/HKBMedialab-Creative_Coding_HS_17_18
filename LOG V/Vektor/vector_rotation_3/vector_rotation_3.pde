@@ -10,7 +10,9 @@ color col1=color(255, 20, 20);
 color col2=color(255, 50, 50);
 color col3=color(255, 100, 100);
 
-float speed3=1;
+float speed1=(2*PI)/200;
+float speed2=(2*PI)/200;
+float speed3=(2*PI)/200;
 float heading3Before=0;
 
 void setup() {
@@ -23,8 +25,8 @@ void setup() {
 
 void draw() {
 
-
-
+fill(255,240,209,10);
+rect(0,0,width,height);
 
 
 
@@ -51,12 +53,6 @@ void draw() {
   triangle(-10, 0, 10, 0, 0, 10);
   popMatrix();
 
-float delta=heading3Before-offset3.heading();
-  println(offset3.heading()+" "+heading3Before+" "+delta);
-  if (heading3Before>offset3.heading()) {
-    col3=color(random(255), random(255), random(255));
-  }
-
 
   //ellipse(position.x, position.y, radius*2, radius*2);
   fill(col3);
@@ -66,13 +62,8 @@ float delta=heading3Before-offset3.heading();
   triangle(-10, 0, 10, 0, 0, 10);
   popMatrix();
 
-  heading3Before=offset3.heading();
 
-  offset.rotate(radians(3));  
-  offset2.rotate(radians(2.5));
-  offset3.rotate(radians(speed3));
-}
-
-float truncate( float x ) {
-  return round( x * 1000.0f ) / 1000.0f;
+  offset.rotate(speed1);  
+  offset2.rotate(speed2);
+  offset3.rotate(speed3);
 }

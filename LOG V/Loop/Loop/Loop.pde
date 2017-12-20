@@ -7,8 +7,14 @@ void setup() {
   background(255);
   colorMode(HSB);
   noStroke();
+
+}
+
+void draw(){
+
   for (int i=0; i<iterations; i++) {
     fill(random(255), 255, 255, 100);
     rect(random(width-rectsize), random(height-rectsize), rectsize, rectsize);
   }
+
 }
