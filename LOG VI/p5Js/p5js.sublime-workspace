@@ -1,0 +1,402 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"swiper"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"viewfr",
+				"viewfrontend"
+			],
+			[
+				"con",
+				"contentlinksarray"
+			],
+			[
+				"content",
+				"contentmodule"
+			],
+			[
+				"kunden",
+				"kundentitles"
+			],
+			[
+				"height",
+				"max-height: "
+			],
+			[
+				"inf",
+				"informationMeanscore"
+			],
+			[
+				"functi",
+				"functionalityMeanscore"
+			],
+			[
+				"enga",
+				"engagementMeanscore"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"ba",
+				"background-color: "
+			],
+			[
+				"font",
+				"font-size: "
+			],
+			[
+				"border",
+				"border-top: "
+			],
+			[
+				"Content",
+				"contents"
+			],
+			[
+				"var",
+				"var1"
+			],
+			[
+				"input",
+				"input_simple"
+			],
+			[
+				"max",
+				"max-height: "
+			],
+			[
+				"padding",
+				"padding-bottom: "
+			],
+			[
+				"paddin",
+				"padding-top: "
+			],
+			[
+				"thi",
+				"thin"
+			],
+			[
+				"fon",
+				"font-weight: "
+			],
+			[
+				"Geo",
+				"ShapeGeometry"
+			],
+			[
+				"me",
+				"Mesh"
+			],
+			[
+				"r",
+				"random"
+			],
+			[
+				"joint",
+				"jointpos"
+			],
+			[
+				"new",
+				"newpos"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/fgm4/Repos/Creative_Coding_HS_17_18/LOG VI/p5Js/index.html",
+		"/Users/fgm4/htdocs_Mamp/bundr.ch/media/styles/css/screen.css",
+		"/Users/fgm4/htdocs_Mamp/bundr.ch/application/views/templates/pages/elements/head.php",
+		"/Users/fgm4/htdocs_Mamp/bundr.ch/application/views/templates/pages/standard/viewfrontend.php",
+		"/Users/fgm4/htdocs_Mamp/bundr.ch/sftp-config.json",
+		"/Users/fgm4/htdocs_Mamp/bundr.ch/application/views/templates/contents/kunden_ex/sftp-config.json",
+		"/Users/fgm4/htdocs_Mamp/bundr.ch/application/views/templates/contents/arbeit/viewfrontend.php",
+		"/Users/fgm4/htdocs_Mamp/bundr.ch/application/views/templates/standard/viewfrontend.php",
+		"/Users/fgm4/htdocs_Mamp/bundr.ch/application/views/templates/contents/kunden_ex/viewfrontend.php",
+		"/Users/fgm4/htdocs_Mamp/bundr.ch/media/js/sigifront.js",
+		"/Users/fgm4/htdocs_Mamp/bundr.ch/application/views/templates/contents/arbeit/titlelist.php",
+		"/Users/fgm4/htdocs_Mamp/bundr.ch/application/views/templates/pages/elements/foot.php",
+		"/Users/fgm4/htdocs_Mamp/bundr.ch/application/views/templates/pages/singleview/viewfrontend.php",
+		"/Users/fgm4/htdocs_Mamp/bundr.ch/application/bootstrap.php",
+		"/Users/fgm4/htdocs_Mamp/bundr.ch/application/classes/Controller/Frontend/Frontend.php",
+		"/Users/fgm4/htdocs_Mamp/bundr.ch/media/styles/scss/_modules.scss",
+		"/Users/fgm4/htdocs_Mamp/bundr.ch/media/styles/scss/_settings.scss",
+		"/Users/fgm4/htdocs_Mamp/bundr.ch/modules/sigi_core/views/templates/contents/kunde/viewbackend.php",
+		"/Users/fgm4/htdocs_Mamp/bundr.ch/application/views/templates/pages/buero/viewfrontend.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/application/views/templates/contents/arbeit/viewfrontend.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/application/views/templates/contents/arbeit/viewcsv.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/application/views/templates/contents/collection_ex_csv/viewfrontend.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/application/views/templates/contents/mars/viewbackend.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/application/views/templates/contents/mars/viewcsv.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/application/views/templates/contents/sus/viewbackend.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/classes/Backend/Editable.php",
+		"/Users/fgm4/Downloads/ofxARKit-master-2/.gitignore",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/application/views/templates/contents/arbeit/viewbackend.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/sigi-media/styles/css/sigi.css",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/sigi-media/styles/less/content.less",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/views/backend/content/container.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/classes/Backend/Content.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/sigi-media/styles/compile_less.sh",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/sigi-media/styles/less/mixins.less",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/media/js/isotope.min.js",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/sigi-media/styles/less/sigi.less",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/classes/Backend/Actionbox.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/views/backend/medialink/container.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/application/classes/controller/backend/backend.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/application/views/templates/contents/collection_ex_by_type/viewfrontend.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/application/views/templates/contents/MARS/viewbackend.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/application/views/templates/pages/standard/viewfrontend.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/media/styles/scss/_modules.scss",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/media/styles/css/screen.css",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/media/js/sigifront.js",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/application/views/templates/navigations/mainnavi.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/media/styles/scss/_settings.scss",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/application/views/templates/pages/elements/foot.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/classes/Frontend/Menu.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/views/templates/navigations/mainnavi.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/media/js/imagesLoaded.min.js",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/application/views/templates/contents/collection_ex_by_type/viewbackend.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/sftp-config.json",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/readme.txt",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/media/styles/css/sftp-config.json",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/classes/Frontend/Json.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/classes/Controller/Frontend/Xml.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/init.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/views/templates/structured/json/contentjson.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/views/templates/structured/json/jsontagscontent.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/application/views/templates/collections/tables/viewxml.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/application/views/templates/collections/tables/properties.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/sigi-media/js/jquery/jeditable/jquery.jeditable.image.js",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/application/views/templates/contents/collection_ex/viewfrontend.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/views/backend/admin.php",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/sigi-media/styles/css/custom.css",
+		"/Users/fgm4/htdocs_Mamp/fork_sigi3_4_app/modules/sigi_core/sigi-media/styles/css/addmenu.css",
+		"/Users/fgm4/htdocs_Mamp/mDrawHtml/main.html",
+		"/Users/fgm4/Documents/openFrameworks/of_v0.9.4_osx_release/libs/openFrameworksCompiled/lib/osx/build/debug/openFrameworks.build/Objects-normal/x86_64/ofURLFileLoader.d",
+		"/Users/fgm4/htdocs_Mamp/veillance_nxt/test2.html",
+		"/Users/fgm4/Repos/Creatvie_Coding_HS_16_17/Praesentation/index.html",
+		"/Users/fgm4/Documents/Processing/CAS_Dataviz/Praesentation/index.html",
+		"/Users/fgm4/htdocs_Mamp/veillance_nxt/js/veilweb_front.js",
+		"/Users/fgm4/htdocs_Mamp/kirby-2.3.1/site/blueprints/blog.yml",
+		"/Users/fgm4/htdocs_Mamp/kirby-2.3.1/js/app.js",
+		"/Users/fgm4/htdocs_Mamp/kirby-2.3.1/site/snippets/menu.php",
+		"/Users/fgm4/htdocs_Mamp/kirby-2.3.1/site/templates/blog.php",
+		"/Users/fgm4/htdocs_Mamp/kirby-2.3.1/site/snippets/projects.php",
+		"/Users/fgm4/htdocs_Mamp/kirby-2.3.1/site/templates/project.php",
+		"/Users/fgm4/htdocs_Mamp/kirby-2.3.1/site/blueprints/project.yml",
+		"/Users/fgm4/htdocs_Mamp/kirby-2.3.1/scss/_styles.scss",
+		"/Users/fgm4/htdocs_Mamp/kirby-2.3.1/content/1-projects/project-a/project.txt",
+		"/Users/fgm4/htdocs_Mamp/kirby-2.3.1/site/snippets/footer.php",
+		"/Users/fgm4/htdocs_Mamp/kirby-2.3.1/site/snippets/header.php",
+		"/Users/fgm4/htdocs_Mamp/kirby-2.3.1/scss/_settings.scss",
+		"/Users/fgm4/htdocs_Mamp/kirby-2.3.1/site/controllers/project.php",
+		"/Users/fgm4/htdocs_Mamp/kirby-2.3.1/site/templates/home.php",
+		"/Users/fgm4/htdocs_Mamp/kirby-2.3.1/site/templates/projects.php",
+		"/Users/fgm4/htdocs_Mamp/kirby-2.3.1/scss/app.scss",
+		"/Users/fgm4/htdocs_Mamp/kirby-2.3.1/site/templates/default.php",
+		"/Users/fgm4/htdocs_Mamp/Kirby-for-Zurb-Foundation-6-master/index.php",
+		"/Users/fgm4/htdocs_Mamp/paver/demo/pano.html",
+		"/Users/fgm4/htdocs_Mamp/4itram/client/templates/tiefenbrunnen_en.html",
+		"/Users/fgm4/htdocs_Mamp/4itram/client/assets/js/app.js",
+		"/Users/fgm4/htdocs_Mamp/4itram/client/templates/altstetten_en.html",
+		"/Users/fgm4/htdocs_Mamp/4itram/client/index_en.html",
+		"/Users/fgm4/htdocs_Mamp/4itram/client/assets/scss/app.scss",
+		"/Users/fgm4/htdocs_Mamp/4itram/client/assets/scss/_settings.scss",
+		"/Users/fgm4/htdocs_Mamp/4itram/client/index.html",
+		"/Users/fgm4/htdocs_Mamp/4itram/bower.json",
+		"/Users/fgm4/htdocs_Mamp/4itram/gulpfile.js",
+		"/Users/fgm4/htdocs_Mamp/4itram/client/assets/js/modules.js",
+		"/Users/fgm4/Repos/CAS_Dataviz/praesentation/.gitignore",
+		"/Users/fgm4/htdocs_Mamp/three-bmfont-text/js/veilweb_front.js",
+		"/Users/fgm4/Downloads/threejs_logo_example/index.html",
+		"/Users/fgm4/Documents/Arduino/libraries/Pozyx/Pozyx_lib.cpp"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "p5js.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"scss/app.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 502.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
