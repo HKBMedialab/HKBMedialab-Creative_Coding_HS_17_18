@@ -19,6 +19,7 @@ void setup() {
   // allow resize and update surface to image dimensions
   surface.setResizable(true);
   surface.setSize(img.width, img.height);
+  background(255);
 }
 
 void draw() {
@@ -30,17 +31,10 @@ void draw() {
     int mappedbrightness=int(map(brightness, 0, 255, 5, 0));
     for (int k=0; k<mappedbrightness; k++) {
       float d=abstand/mappedbrightness;
-            stroke(0);
-
-      line(posX, posY+(d*k), posX+abstand, posY+(d*k));
-      //stroke(255,0,0);
-      line(posX+(d*k), posY, posX+(d*k), posY+abstand);
-
+      stroke(0);
+      noFill();
+      ellipse(posX, posY, d*k*2, (d*k)*2);
     }
-
-    //fill(0);
-    //noStroke();
-    //ellipse(posX, posY, mappedbrightness, mappedbrightness);
 
     if (posX+abstand>=width) {
       posX=0;
